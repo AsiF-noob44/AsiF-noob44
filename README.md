@@ -3,15 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abu-sayeed-rifat-260535336">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abusayeedrifat20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/asif.saeed.rifat/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/abu-sayeed-rifat-260535336"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:abusayeedrifat20@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/></a>
+  <a href="https://www.facebook.com/asif.saeed.rifat/"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/></a>
 </p>
 
 ---
@@ -77,5 +71,3 @@ Let's connect, learn, and build amazing things together! 🚀
 </p>
 
 ---
-
-![image1](image1)
