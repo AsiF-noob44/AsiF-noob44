@@ -32,8 +32,9 @@ I am exploring the path to becoming a **MERN Stack** or **Full Stack Developer**
 ---
 
 ## 🛠️ Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,py,php,tailwind,bootstrap,cpp,git,github)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,py,php,tailwind,bootstrap,cpp,git,github" alt="My Skills"/>
+</p>
 
 ---
 
@@ -60,14 +61,9 @@ I am exploring the path to becoming a **MERN Stack** or **Full Stack Developer**
 
 ---
 
-Let's connect, learn, and build amazing things together! 🚀
-
----
-
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://github.com/AsiF-noob44/AsiF-noob44/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/AsiF-noob44/AsiF-noob44/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
-
----
+<p align="center">
+  Let's connect, learn, and build amazing things together! 🚀
+</p>
