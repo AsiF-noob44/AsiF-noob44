@@ -91,6 +91,14 @@ I am exploring the path to becoming a **MERN Stack** or **Full Stack Developer**
 
 ---
 
+## 🏆 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsiF-noob44&layout=compact&show_icons=true&theme=tokyonight&langs_count=6&hide_title=true&card_width=600" alt="AsiF-noob44's Top Languages" />
+</p>
+
+---
+
 ## 📫 How to Reach Me
 
 - **LinkedIn:** [Abu Sayeed Rifat](https://www.linkedin.com/in/abu-sayeed-rifat-260535336)
