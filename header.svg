@@ -1,0 +1,30 @@
+<svg width="1000" height="250" viewBox="0 0 1000 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0" y1="0" x2="1000" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1e3c72"/>
+      <stop offset="1" stop-color="#2a5298"/>
+    </linearGradient>
+    <linearGradient id="text-gradient" x1="0" y1="0" x2="0" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F2FE"/>
+      <stop offset="1" stop-color="#4FACFE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="250" fill="url(#bg-gradient)" rx="22"/>
+  <!-- Code Icon -->
+  <g>
+    <rect x="70" y="50" width="110" height="110" rx="20" fill="#23272e"/>
+    <text x="125" y="125" font-size="65" text-anchor="middle" alignment-baseline="middle" fill="#00dfc4" font-family="Fira Mono, monospace">&lt;/&gt;</text>
+  </g>
+  <!-- Main Text -->
+  <text x="210" y="110" font-size="48" font-weight="bold" fill="white" font-family="Segoe UI, Ubuntu, sans-serif">Hey! I am</text>
+  <text x="210" y="170" font-size="54" font-weight="bold" fill="url(#text-gradient)" font-family="Segoe UI, Ubuntu, sans-serif">Abu Sayeed Rifat</text>
+  <text x="215" y="210" font-size="28" font-style="italic" fill="#fff" opacity="0.9" font-family="Segoe UI, Ubuntu, sans-serif">
+    Aspiring MERN Stack Developer
+  </text>
+  <!-- Decorative dots -->
+  <circle cx="950" cy="40" r="7" fill="#00dfc4" opacity="0.8"/>
+  <circle cx="970" cy="90" r="4" fill="#4FACFE" opacity="0.7"/>
+  <circle cx="940" cy="200" r="6" fill="#ffe29f" opacity="0.7"/>
+  <circle cx="900" cy="50" r="3" fill="#f7971e" opacity="0.8"/>
+  <circle cx="850" cy="220" r="5" fill="#43e97b" opacity="0.7"/>
+</svg>
