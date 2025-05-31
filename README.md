@@ -1,5 +1,3 @@
-![Header](https://github.com/AsiF-noob44/AsiF-noob44/blob/main/header.svg)
-
 <p align="center">
   <img src="https://github.com/AsiF-noob44/AsiF-noob44/blob/main/header.svg" alt="Hey! I am Abu Sayeed Rifat | Aspiring MERN Stack Developer" width="100%" />
 </p>
