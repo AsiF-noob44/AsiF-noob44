@@ -33,7 +33,51 @@ I am exploring the path to becoming a **MERN Stack** or **Full Stack Developer**
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,oracle,mysql,mongodb,py,php,tailwind,bootstrap,cpp,git,github" alt="My Skills"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="40" alt="React"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB"/>
+  </a>
+  <a href="https://python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" width="40" alt="Python"/>
+  </a>
+  <a href="https://php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" width="40" alt="PHP"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="TailwindCSS"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" width="40" alt="C++"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
+  </a>
 </p>
 
 ---
