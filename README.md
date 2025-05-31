@@ -33,7 +33,7 @@ I am exploring the path to becoming a **MERN Stack** or **Full Stack Developer**
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,py,php,tailwind,bootstrap,cpp,git,github" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,oracle,mysql,mongodb,py,php,tailwind,bootstrap,cpp,git,github" alt="My Skills"/>
 </p>
 
 ---
