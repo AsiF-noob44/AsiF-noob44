@@ -14,10 +14,6 @@
 
 I am **Abu Sayeed Rifat**, an ambitious undergraduate student at **AIUB (American International University-Bangladesh)**, currently pursuing my BSc in Computer Science and Engineering. My journey in tech is driven by a deep passion for web development and a relentless curiosity to learn and grow.
 
-With a solid foundation in:
-
-- **HTML, CSS, C++, JavaScript, React.js, Node.js, Express.js, MongoDB, Python, PHP, Tailwind CSS, Bootstrap**
-
 I am exploring the path to becoming a **MERN Stack** or **Full Stack Developer**. I love building web applications, learning new technologies, and collaborating on exciting projects!
 
 ---
