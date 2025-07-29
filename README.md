@@ -112,6 +112,3 @@ I am exploring the path to becoming a **MERN Stack** or **Full Stack Developer**
 <p align="center">
   <img src="https://github.com/AsiF-noob44/AsiF-noob44/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
-<p align="center">
-  Let's connect, learn, and build amazing things together! 🚀
-</p>
