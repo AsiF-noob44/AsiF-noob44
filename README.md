@@ -81,8 +81,8 @@ I am exploring the path to becoming a **MERN Stack** or **Full Stack Developer**
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsiF-noob44&show_icons=true&theme=tokyonight" alt="AsiF-noob44's stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsiF-noob44&theme=tokyonight" alt="AsiF-noob44's streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=AsiF-noob44&show_icons=true&theme=tokyonight" alt="AsiF-noob44's stats" />
+  <img src="https://streak-stats.demolab.com?user=AsiF-noob44&theme=tokyonight" alt="AsiF-noob44's streak" />
 </p>
 
 ---
