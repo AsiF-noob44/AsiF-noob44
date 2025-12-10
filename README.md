@@ -81,8 +81,8 @@ I am exploring the path to becoming a **MERN Stack** or **Full Stack Developer**
 ## 📈 My GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AsiF-noob44&show_icons=true&theme=tokyonight" alt="AsiF-noob44's stats" />
-  <img src="https://streak-stats.demolab.com?user=AsiF-noob44&theme=tokyonight" alt="AsiF-noob44's streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsiF-noob44&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="AsiF-noob44's stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsiF-noob44&theme=tokyonight" alt="AsiF-noob44's streak" />
 </p>
 
 ---
@@ -90,8 +90,9 @@ I am exploring the path to becoming a **MERN Stack** or **Full Stack Developer**
 ## 🏆 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsiF-noob44&layout=compact&show_icons=true&theme=tokyonight&langs_count=6&hide_title=true&card_width=600" alt="AsiF-noob44's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsiF-noob44&layout=compact&theme=tokyonight&langs_count=6&card_width=600&cache_seconds=86400" alt="AsiF-noob44's Top Languages" />
 </p>
+
 
 ---
 
