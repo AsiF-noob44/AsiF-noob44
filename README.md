@@ -79,19 +79,22 @@ I am exploring the path to becoming a **MERN Stack** or **Full Stack Developer**
 ---
 
 ## 📈 My GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsiF-noob44&show_icons=true&theme=tokyonight&cache_seconds=0" alt="AsiF-noob44's stats" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=AsiF-noob44&theme=tokyonight" alt="AsiF-noob44's streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AsiF-noob44&theme=tokyonight&show_icons=true" alt="AsiF-noob44's stats" />
 </p>
 
+---
+
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsiF-noob44&theme=tokyo-night&hide_border=true" alt="AsiF-noob44's activity graph" />
+</p>
 
 ---
 
 ## 🏆 Top Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsiF-noob44&layout=compact&theme=tokyonight&langs_count=6&card_width=600&cache_seconds=0" alt="AsiF-noob44's Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsiF-noob44&theme=tokyonight&layout=compact&langs_count=6&card_width=600" alt="AsiF-noob44's Top Languages" />
 </p>
 
 
