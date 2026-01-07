@@ -25,7 +25,7 @@ I am exploring the path to becoming a **MERN Stack** or **Full Stack Developer**
 - 🤝 Open to collaboration, tech discussions, and project ideas!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning+New+Things;Tech+Enthusiast;Passionate+Gamer;MMA+Fan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Driven+by+Curiosity;Tech+Enthusiast;Passionate+Gamer;MMA+Fan" alt="Typing SVG" />
 </p>
 
 ---
