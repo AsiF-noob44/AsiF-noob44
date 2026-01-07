@@ -20,10 +20,13 @@ I am exploring the path to becoming a **MERN Stack** or **Full Stack Developer**
 
 ## 🚀 What I Do
 
-- 🌱 Currently studying at **AIUB CSE** and learning advanced web technologies.
+- 🌱 Currently studying at **AIUB CSE**
 - 💻 Aiming to become a skilled **MERN/Full Stack Developer**.
 - 🤝 Open to collaboration, tech discussions, and project ideas!
-- ⚽ Tech enthusiast, passionate gamer, football fan, and movie buff.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning+New+Things;Tech+Enthusiast;Passionate+Gamer;MMA+Fan" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -97,7 +100,9 @@ I am exploring the path to becoming a **MERN Stack** or **Full Stack Developer**
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AsiF-noob44&theme=tokyonight&layout=compact&langs_count=6&card_width=600" alt="AsiF-noob44's Top Languages" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsiF-noob44&theme=tokyonight" />
+</p>
 
 ---
 
