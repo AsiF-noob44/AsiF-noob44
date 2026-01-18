@@ -28,7 +28,11 @@ I am exploring the path to becoming a **MERN Stack** or **Full Stack Developer**
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Driven+by+Curiosity;Tech+Enthusiast;Passionate+Gamer;MMA+Fan" alt="Typing SVG" />
 </p>
 
-<p align="center"> <a href="https://portfolio-abusayeedrifat.vercel.app/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/internet.png" alt="Portfolio"/> <br/>Portfolio </a> </p>
+<p align="center"> <a href="https://portfolio-abusayeedrifat.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/internet.png" alt="Portfolio"/> 
+  <br/>Portfolio
+</a>
+ </p>
 
 ---
 
